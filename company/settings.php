@@ -131,8 +131,7 @@ if (empty($_SESSION['id_company'])) {
 
     <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center">
-        <strong>Copyright &copy; 2022 <a href="scsit@Davv">Placement Portal</a>.</strong> All rights
-        reserved.
+        <strong>Copyright &copy;<a href="scsit@Davv">Ask UPES</a>.</strong>
       </div>
     </footer>
 
